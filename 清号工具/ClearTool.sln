@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClearTool", "ClearTool.vcxproj", "{58C6FB08-D88F-42AE-9C46-92E6A9DF9B92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C6FB08-D88F-42AE-9C46-92E6A9DF9B92}.Debug|Win32.ActiveCfg = Debug|Win32
+		{58C6FB08-D88F-42AE-9C46-92E6A9DF9B92}.Debug|Win32.Build.0 = Debug|Win32
+		{58C6FB08-D88F-42AE-9C46-92E6A9DF9B92}.Release|Win32.ActiveCfg = Release|Win32
+		{58C6FB08-D88F-42AE-9C46-92E6A9DF9B92}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
